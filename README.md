@@ -88,6 +88,8 @@ Plataforma desenvolvida para otimizar o processo de prospecção comercial, inte
 
 [🔗 Visualizar repositório](https://github.com/nandoalvesferreira20-png/loung-prospect)
 
+---
+
 ### 🔹 Loung Prototype Studio — Geração de Protótipos Web
 
 **Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS**
@@ -106,62 +108,34 @@ Plataforma para criação, personalização e publicação de protótipos de sit
 
 [🔗 Visualizar repositório](https://github.com/nandoalvesferreira20-png/loung-prototype-studio)
 
-### 🔹 Casa Naturaleh — E-commerce
+---
 
-**Next.js · React · TypeScript · Tailwind CSS**
+### 🔹 Casa Naturaleh — E-commerce Full-Stack
 
-Desenvolvimento de uma loja virtual com foco em navegação intuitiva, apresentação de produtos e experiência de compra.
+**Next.js · React · TypeScript · Supabase · Firebase**
+
+Desenvolvimento de uma plataforma de comércio eletrônico voltada ao setor de produtos naturais, com catálogo dinâmico, gerenciamento de pedidos e experiência de compra responsiva.
 
 **Principais funcionalidades:**
-- Catálogo de produtos.
-- Páginas individuais de produtos.
+- Catálogo e páginas individuais de produtos.
 - Carrinho de compras.
-- Cálculo de quantidades e subtotal.
-- Layout responsivo.
-- Fluxo de compra orientado para pagamento via Pix.
+- Cadastro e autenticação de usuários.
+- Checkout com geração de Pix.
+- Gerenciamento de pedidos.
+- Painel administrativo.
+- Integração com banco de dados e serviços externos.
 
-**Destaque técnico:** componentização, gerenciamento de estado e construção de interfaces orientadas à experiência do usuário.
+**Destaque técnico:** desenvolvimento de aplicação full-stack, gerenciamento de estado, autenticação, integração de APIs e implementação de regras comerciais.
 
 [🔗 Visualizar repositório](https://github.com/nandoalvesferreira20-png/casa-naturaleh)
 
-### 🔹 DataFut — Análise de Desempenho da Seleção Brasileira
-
-**Python · Pandas · Streamlit · Plotly**
-
-Projeto de análise de dados que investiga o desempenho da Seleção Brasileira em partidas oficiais com e sem a participação de Neymar.
-
-**Principais funcionalidades:**
-- Coleta e tratamento de dados históricos.
-- Limpeza, normalização e cruzamento de informações.
-- Cálculo de indicadores de desempenho.
-- Comparação de taxas de vitória.
-- Dashboard interativo com visualizações estatísticas.
-
-**Destaque técnico:** aplicação de análise exploratória de dados e construção de indicadores para responder a uma pergunta objetiva.
-
-[🔗 Visualizar repositório](https://github.com/nandoalvesferreira20-png/datafut-brazil-performance-analysis)
-
-### 🔹 Dashboard de Vendas — Business Intelligence
-
-**Power BI · Análise de Dados · KPIs**
-
-Dashboard desenvolvido com dados fictícios para explorar indicadores comerciais e técnicas de visualização de dados.
-
-**Principais funcionalidades:**
-- Indicadores de faturamento e volume de vendas.
-- Análise de desempenho por produtos e marcas.
-- Visualização geográfica dos resultados.
-- Exploração interativa de indicadores.
-
-**Destaque técnico:** modelagem de indicadores e apresentação visual de informações para apoiar decisões.
-
-[🔗 Visualizar repositório](https://github.com/nandoalvesferreira20-png/Dashboard---Power-BI)
+---
 
 ### 🔹 Central Jotapê — Portal de Notícias e CMS
 
 **JavaScript · HTML · CSS · Supabase · PostgreSQL**
 
-Portal de notícias e conteúdos desenvolvido para a Central Jotapê MC, com área administrativa para gerenciamento editorial.
+Portal editorial desenvolvido para a Central Jotapê MC, reunindo notícias, agenda de eventos, conteúdos artísticos e um sistema próprio de gerenciamento de publicações.
 
 **Principais funcionalidades:**
 - Publicação e organização de notícias.
@@ -170,8 +144,9 @@ Portal de notícias e conteúdos desenvolvido para a Central Jotapê MC, com ár
 - Galeria de imagens.
 - Organização da trajetória artística e competitiva.
 - Integração com Supabase.
+- Controle de publicação e permissões administrativas.
 
-**Destaque técnico:** desenvolvimento de uma solução com conteúdo dinâmico, persistência de dados e controle de acesso.
+**Destaque técnico:** desenvolvimento de uma aplicação com JavaScript puro, conteúdo dinâmico, persistência de dados, autenticação e controle de acesso.
 
 [🔗 Visualizar repositório](https://github.com/nandoalvesferreira20-png/central-jotape)
 
